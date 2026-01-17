@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "W:\\Develop\\BibleC#\\Basics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B1EEFA2-6C9D-43C7-8589-DCF2B60CB8C0}|Enum\\Enum.csproj|w:\\develop\\biblec#\\basics\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1EEFA2-6C9D-43C7-8589-DCF2B60CB8C0}|Enum\\Enum.csproj|solutionrelative:enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E2DAD9-A5D6-4294-9E62-EF4BD16EA18A}|Arrays\\Arrays.csproj|w:\\develop\\biblec#\\basics\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E2DAD9-A5D6-4294-9E62-EF4BD16EA18A}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BC552C7-20D2-4668-A575-1AA3AA75B591}|Basics\\Basics.csproj|w:\\develop\\biblec#\\basics\\basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BC552C7-20D2-4668-A575-1AA3AA75B591}|Basics\\Basics.csproj|solutionrelative:basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\Develop\\BibleC#\\Basics\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "Enum\\Program.cs",
+              "ToolTip": "W:\\Develop\\BibleC#\\Basics\\Enum\\Program.cs",
+              "RelativeToolTip": "Enum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:44:06.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\Develop\\BibleC#\\Basics\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "W:\\Develop\\BibleC#\\Basics\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:25:42.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "W:\\Develop\\BibleC#\\Basics\\Basics\\Program.cs",
               "RelativeDocumentMoniker": "Basics\\Program.cs",
